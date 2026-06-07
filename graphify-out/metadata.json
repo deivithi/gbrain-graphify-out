@@ -1,0 +1,27 @@
+{
+  "extracted_at": "2026-06-07T18:34:00-03:00",
+  "source_repo": "garrytan/gbrain",
+  "tool": "graphify 0.8.33",
+  "stats": {
+    "files_processed": 679,
+    "nodes": 7495,
+    "edges": 19785,
+    "file_size_bytes": 7355903
+  },
+  "top_hubs": [
+    {
+      "node": "core_engine",
+      "connections": 352
+    },
+    {
+      "node": "BrainEngine",
+      "connections": 325
+    },
+    {
+      "node": "ai_gateway",
+      "connections": 230
+    }
+  ],
+  "compression": "gzip (94.6% reduction 7.1MB -> 387KB)",
+  "google_drive_backup": "https://drive.google.com/file/d/15R0bCZ2h7rGBMeBXZA21_l3vNy9yKbNe/view"
+}
