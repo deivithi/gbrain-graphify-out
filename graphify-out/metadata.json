@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-01T06:06:01.750917+00:00",
+  "updated_at": "2026-08-01T06:06:34.166679+00:00",
   "source_commit": "dcaea7fdbb079bc28c1d1584f6d43bc66e59dc49",
   "nodes": 9369,
-  "edges": 0,
+  "edges": 24335,
   "source_path": "/home/user/surething/agents/tvurivkuhz7ivff0/gbrain/src",
   "graphify_version": "0.9.31"
 }
